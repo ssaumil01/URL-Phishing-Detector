@@ -1,2 +1,2 @@
-# URL-Phishing-Detector
+# Phishing-URL-Detector
 Phishing URL Detector
